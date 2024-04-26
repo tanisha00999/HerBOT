@@ -3,3 +3,4 @@ mammoth
 textract
 nltk==3.6.3
 scikit-learn
+flask
