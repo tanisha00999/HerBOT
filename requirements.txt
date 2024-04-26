@@ -2,4 +2,4 @@ pdfminer3
 mammoth
 textract
 nltk==3.6.3
-sklearn
+scikit-learn
