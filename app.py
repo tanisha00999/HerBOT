@@ -237,4 +237,4 @@ def process():
 
 
 if __name__=="__main__":
-    app.run(port=8000, debug=False)
+    app.run(port=1042, debug=False)
