@@ -1,4 +1,5 @@
 pdfminer3
 mammoth
 textract
-ntlk
+nltk==3.6.3
+
